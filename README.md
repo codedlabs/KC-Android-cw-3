@@ -11,7 +11,7 @@
 <br>
 <br>
 <img src = "https://media.discordapp.net/attachments/742407473687822377/759070186706829382/unknown.png" width = "300 px" margin="auto"/>
-
+<br>
 ## الجزء الثاني من التمرين:
 <br>
 اكتب الدوال الجالبه للقيم /setters and getters لكلاس movie and constructor
