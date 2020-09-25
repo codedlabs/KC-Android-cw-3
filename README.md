@@ -16,7 +16,7 @@
 <br>
 اكتب الدوال الجالبه للقيم /setters and getters لكلاس movie and constructor
 
-### !1 بونص 
+### بونص 1! 
  اجعل جميع الخصائص private 
 ### بونص 2!
 انشأ two movies من اختيارك
